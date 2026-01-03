@@ -1,0 +1,13 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+= zig-cue-ffi
+
+Zig FFI bindings for CUE configuration language.
+
+== Building
+
+[source,bash]
+zig build
+
+== License
+
+AGPL-3.0-or-later
